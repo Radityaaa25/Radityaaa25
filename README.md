@@ -31,9 +31,7 @@ My name is **Raditya As** and I'm an active Information Systems Student at Unive
 <div align="left">
 
   <a href="https://skillicons.dev">
-
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,vite,tailwind" />
-
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,vite,tailwind"/>
   </a>
 
 </div>
