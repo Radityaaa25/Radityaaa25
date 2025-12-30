@@ -2,7 +2,7 @@
 
 
 
-My name is **Raditya As** and I'm an active Information Systems Student at Universitas Bina Sarana Informatika.
+My name is **Raditya Ananda Satria** and I'm an active Information Systems Student at Universitas Bina Sarana Informatika.
 
 
 
